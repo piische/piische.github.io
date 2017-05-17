@@ -45,10 +45,6 @@ ul.posts li {
 html {
     height: 100%;
 }
-.bg {
-    background-image:("http://www.hdwallpapersfreedownload.com/uploads/large/special-days/pi-day-hd-wallper-desktop-background.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+table {
+    border: 1px solid black;
+} 
