@@ -41,9 +41,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.hero {
-    background-image: url ("http://mkweb.bcgsc.ca/pi/art/img/circos-pi-dots-1k.png");
+body, html {
+    height:100%;
+}
+.bg{
+    background-image:("http://www.hdwallpapersfreedownload.com/uploads/large/special-days/pi-day-hd-wallper-desktop-background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
-    margin: 30px;
-    padding: 250px 0;
 }
