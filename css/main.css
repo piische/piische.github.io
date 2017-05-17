@@ -41,3 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.hero {
+    background-image: url ("http://mkweb.bcgsc.ca/pi/art/img/circos-pi-dots-1k.png");
+    background-size: cover;
+    margin: 30px;
+    padding: 250px 0;
+}
