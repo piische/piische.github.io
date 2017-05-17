@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    height: 50%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -41,10 +42,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-body, html {
-    height:100%;
+html {
+    height: 100%;
 }
-.bg{
+.bg {
     background-image:("http://www.hdwallpapersfreedownload.com/uploads/large/special-days/pi-day-hd-wallper-desktop-background.jpg");
     height: 100%;
     background-position: center;
