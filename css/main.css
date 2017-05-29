@@ -10,9 +10,10 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    
+    position: fixed;
     background-color: black;
     z-index: 1;
+    margin: auto;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -23,7 +24,8 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: white;
+    font-weight: bold;
 }
 a:hover {
     text-decoration: underline;
