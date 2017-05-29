@@ -67,3 +67,8 @@ img {
     height: 100px;
     width: 300px;
 }
+priobox {
+    border: 1px solid black;
+    background-color: lightyellow;
+    height: 400px;
+    widht: 300px;
