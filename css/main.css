@@ -43,6 +43,7 @@ h1 {
      font-size: 2em;
      font-family: Serif;
      color: red;
+     text-align: center;
     }
      
 ol {
@@ -89,7 +90,7 @@ img {
     width: 200px;
     border-radius: 10px;
     padding: 10px;
-    text-align: center;
+    
 }
 /*
 * {
