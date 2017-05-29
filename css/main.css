@@ -13,7 +13,7 @@ nav ul, footer ul {
     list-style: none;
     background-color: grey;
     z-index: 1;
-    width: 300px;
+    width: 350px;
     
 }
 nav ul li, footer ul li {
@@ -23,7 +23,7 @@ nav ul li, footer ul li {
     font-weight: bold;
     background-color: grey;
     padding: 7px;
-    text-align: center;
+    
     
 }
 a {
